@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Antti 👋
 
 <!--
 **anttigabriel/anttigabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## An aspiring Software Engineer
+
+- 🌱 I’m currently learning about distributed and concurrent systems and programming in Java.
+
+- 💻 I have worked as Content Producer in the past and currently I'm pursuing a BSc degree in Information Technology at the University of Eastern Finland
+
+- 
