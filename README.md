@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about distributed and concurrent systems and programming in Java.
+- 🌱 I’m currently learning programming in Java.
 
-- 💻 I have worked as Content Producer in the past and currently I'm pursuing a BSc degree in Information Technology at the University of Eastern Finland
+- 🎓 I'm pursuing a BSc degree in Information Technology at the University of Eastern Finland.
